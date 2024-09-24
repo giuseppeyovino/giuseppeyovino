@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @giuseppeyovino
-- 👀 I’m interested in genetics, bioinformatics and data analysis
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on sequencing data analysis
+- 👀 I’m interested in UI/UX Design
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me iovinogiuseppe91@gmail.com
 
 <!---
